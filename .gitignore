@@ -114,3 +114,5 @@ media/
 # **/migrations/**
 # !**/migrations
 # !**/migrations/__init__.py
+/spaceX_starlink_add/.idea/
+.idea
